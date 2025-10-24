@@ -2,7 +2,7 @@
 
 **Resilient RL + CBF for Multi‑Robot Safety & Adversary-Aware Exploration**
 
-A Robotarium-based research codebase that combines Reinforcement Learning (DDPG-style actor–critic) with Control Barrier Functions (CBF) and consensus-style adversary estimation to enable resilient multi‑robot exploration and leader–follower tracking under sensing/communication attacks (FDI / DoS). The project was developed for research in multi‑robot localization, resilient control, and adversarial-aware exploration.
+A Robotarium-based research codebase that combines Reinforcement Learning (DDPG-style actor–critic) with Control Barrier Functions (CBF) and consensus-style adversary estimation to enable resilient multi‑robot exploration and leader–follower tracking under sensing/communication Adversarial. The project was developed for research in multi‑robot localization, resilient control, and adversarial-aware exploration.
 
 ---
 
